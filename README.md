@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hola, soy Julián Tejada
 
-<!--
-**TomateComunista/TomateComunista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Un poco sobre mí
+Desarrollador Full Stack apasionado por la tecnología y la lógica. Siempre en busca de nuevos desafíos, me encanta aprender y encontrar soluciones creativas para problemas, ya sea en informática o matemáticas. Soy un ávido buscador de soluciones y aprovecho al máximo las herramientas disponibles para hacer que las cosas funcionen de manera eficiente.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Tecnologías manejadas
+<p float="left">
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" width="40" /> 
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/redux.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" width="70" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/sequelize.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="80" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/less.svg" width="60" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg" width="80" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/bootstrap.svg" width="40" />
+</p>
+
+También tengo conocimientos en:
+-Python
+-Photoshop
+-Excel
+-Marketing digital
