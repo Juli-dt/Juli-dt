@@ -19,12 +19,13 @@ Desarrollador Full Stack apasionado por la tecnología y la lógica. Siempre en 
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg" width="80" />
 
 </p>
-
+<p>
 También tengo conocimientos en:
 -Python
 -Photoshop
 -Excel
 -Marketing digital
+</p>
 
 # Contáctame
 <br />
