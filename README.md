@@ -21,10 +21,7 @@ Desarrollador Full Stack apasionado por la tecnología y la lógica. Siempre en 
 </p>
 <p>
 También tengo conocimientos en:
--Python
--Photoshop
--Excel
--Marketing digital
+Python, Photoshop, Excel y Marketing digital
 </p>
 
 # Contáctame
