@@ -19,14 +19,18 @@ Desarrollador Full Stack apasionado por la tecnología y la lógica. Siempre en 
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg" width="80" />
 
 </p>
-<p>
-También tengo conocimientos en:
-Python, Photoshop, Excel y Marketing digital
-</p>
+Entre otras herramientas, también tengo conocimiento en:
+<img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" align="right" width="260" />
+- Photoshop
+- Illustrator
+- Figma >
 
 # Contáctame
 <br />
 <p align="left">
 <a href="https://www.linkedin.com/in/julian-tejada-079325198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela-iriart" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/julian-tejada-079325198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/google-gmail.svg" alt="gabriela-iriart" height="30" width="40" /></a>
 </p>
 <br />
