@@ -25,4 +25,4 @@ Conocimientos adicionales:
 
 # Contacto
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" width="30" />](mailto:julijtejada@gmail.com) &nbsp;
-[<img src="https://github.com/gilbarbara/logos/blob/mai/logos/linkedin.svg" width="60" />](https://www.linkedin.com/in/julian-tejada-079325198)
+[<img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/linkedin-icon.svg" width="60" />](https://www.linkedin.com/in/julian-tejada-079325198)
