@@ -25,6 +25,6 @@ Conocimientos adicionales:
 
 # Contacto
 <br />
-[<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" width="30" />](mailto:julijtejada@gmail.com)
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" width="30" />](mailto:julijtejada@gmail.com) &nbsp;
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" width="60" />]([https://www.linkedin.com/in/byron-martínez-86b5bb231/](https://www.linkedin.com/in/julian-tejada-079325198)https://www.linkedin.com/in/julian-tejada-079325198)
 <br />
